@@ -1,3 +1,5 @@
 # Tarea02
 
-Este proyecto contiene los Test1, Test2 y Test3
+This project contains Test1, Test2 and Test3.
+
+It also contains the results on the captures added
